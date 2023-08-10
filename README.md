@@ -35,8 +35,8 @@ Here are a few projects I've worked on:
 ## 📫 How to Reach Me
 
 - Email: tanish.parmar@sportzinteractive.net
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tanish-parmar-b9279b1aa)
-- Twitter: [@YourTwitterHandle](https://twitter.com/im_Tparmar)
+- LinkedIn: [Tanish Parmar](https://www.linkedin.com/in/tanish-parmar-b9279b1aa)
+- Twitter: [@im_Tparmar](https://twitter.com/im_Tparmar)
 
 
 
